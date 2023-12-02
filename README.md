@@ -1,0 +1,5 @@
+- Hi, I’m River.
+- I’m interested in software development and making stupid projects for fun.
+- I’m currently learning about SSH servers, APIs, and data structures.
+- I’m looking to collaborate on anything that'll grow my kinda limited knowledge at the moment.
+- Email: riverschmidteder@gmail.com 📩
