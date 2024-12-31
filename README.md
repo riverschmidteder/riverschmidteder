@@ -1,5 +1,5 @@
 - Hi, I’m River.
-- I’m interested in software development and making CS projects for fun.
-- I’m currently learning about SSH servers, APIs, and data structures.
+- I’m interested in software development, AI, UI/UX and making CS projects for fun.
+- I’m currently learning about SSH servers, APIs, data structures, and software engineering.
 - I’m looking to collaborate on anything that'll grow my knowledge at the moment.
 - Email: riverschmidteder@gmail.com 📩
